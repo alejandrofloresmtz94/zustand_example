@@ -1,3 +1,3 @@
 export type TaskProps = {
-    title: string;
+    id: string;
 }

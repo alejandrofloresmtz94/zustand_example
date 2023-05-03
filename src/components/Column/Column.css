@@ -34,6 +34,11 @@
     background: var(--COLOR-GRAY-LIGHT);
 }
 
+.noTasks {
+    text-align: center;
+    font-size: xx-large;
+}
+
 .Modal {
     position: absolute;
     background: rgba(0, 0, 0, 0.3);
